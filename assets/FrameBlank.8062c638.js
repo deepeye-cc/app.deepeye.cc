@@ -1,0 +1,1 @@
+import{_ as e,d as a,o as n,a as o}from"./index.33e335ff.js";const r=a({name:"FrameBlank"});function s(t,p,c,m,_,d){return n(),o("div")}var f=e(r,[["render",s],["__file","/Users/mbp13/git/deepeye/app-deepeye/src/layouts/components/FrameBlank.vue"]]);export{f as default};
